@@ -35,3 +35,27 @@ span{
   margin-top: 5px;
   margin-left: 5px;
 }
+@media (max-width: 570px) {
+  .container{
+    width: 150px;
+    margin: 4px;
+  }
+  span{
+    font-size: small;
+    margin-bottom: 3px;
+    margin-top: 2px;
+    margin-left: 3px;
+  }
+}
+@media (max-width: 350px) {
+  .container{
+    width: 140px;
+    margin: 4px;
+  }
+  span{
+    font-size: smaller;
+    margin-bottom: 3px;
+    margin-top: 2px;
+    margin-left: 3px;
+  }
+}
