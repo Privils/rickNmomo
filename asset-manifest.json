@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rickNmomo/static/css/main.dc21be4c.css",
+    "main.css": "/rickNmomo/static/css/main.3dc2afe9.css",
     "main.js": "/rickNmomo/static/js/main.bea7483c.js",
     "static/js/787.918741fe.chunk.js": "/rickNmomo/static/js/787.918741fe.chunk.js",
     "static/media/anime-site.png": "/rickNmomo/static/media/anime-site.4f3c9355caac659fabb7.png",
     "index.html": "/rickNmomo/index.html",
-    "main.dc21be4c.css.map": "/rickNmomo/static/css/main.dc21be4c.css.map",
+    "main.3dc2afe9.css.map": "/rickNmomo/static/css/main.3dc2afe9.css.map",
     "main.bea7483c.js.map": "/rickNmomo/static/js/main.bea7483c.js.map",
     "787.918741fe.chunk.js.map": "/rickNmomo/static/js/787.918741fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc21be4c.css",
+    "static/css/main.3dc2afe9.css",
     "static/js/main.bea7483c.js"
   ]
 }
